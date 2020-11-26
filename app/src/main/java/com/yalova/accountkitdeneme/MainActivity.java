@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         loginButton = findViewById(R.id.login);
-        loginDesc = findViewById(R.id.userText);
+        loginDesc = findViewById(R.id.text);
         huaweiAccount = null;
 
         loginButton.setOnClickListener(new View.OnClickListener() {

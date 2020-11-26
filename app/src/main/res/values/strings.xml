@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AccountKitDeneme</string>
-    <string name="text">E postanızı giriniz</string>
-</resources>
+    <string name="text">Giriş yapınız.</string>
+    <string name="login">Huawei ile giriş yap</string>
+    <string name="logout">Çıkış yap</string></resources>
