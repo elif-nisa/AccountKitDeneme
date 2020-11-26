@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"5190090000026604151",
+		"product_id":"736430079244714221",
+		"client_id":"503009803631592512",
+		"client_secret":"34A5C72A90B3891543160F6FA683E58F0830C68FD9FDEAEE082F14C7A8EC7773",
+		"project_id":"736430079244714221",
+		"app_id":"103340629",
+		"api_key":"CgB6e3x9OctGiPzBtWVkCVp4t7jBDf/ZFWNDWzugdDdYxHNQ0l16ditYFTe4ZLDNusgf/WwO9nh6BSd07praP38F",
+		"package_name":"com.yalova.accountkitdeneme"
+	},
+	"configuration_version":"1.0"
+}
